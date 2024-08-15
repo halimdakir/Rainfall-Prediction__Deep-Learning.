@@ -1,17 +1,21 @@
 ***Rainfall Prediction Using Machine Learning***
 
 *Project Overview:*
+
 `The Rainfall Prediction project leverages advanced machine learning techniques to predict whether it will rain tomorrow by analyzing daily weather data across Australia. This repository encompasses all aspects of the model development process—from data preparation and preprocessing, through to model training and deployment.`
 
 *Objective :*
+
 `This project aims to accurately forecast rainfall using historical weather data, thereby assisting in weather predictions and planning. The model utilizes various machine learning algorithms and tools, and is deployed via Flask and Docker, making it scalable and accessible as a web application.`
 
 *Performance :*
+
 `The model achieves an overall accuracy of 83%, with precision and recall metrics indicating robust performance across different weather scenarios. Specific strategies like SMOTE have been employed to address class imbalance in the dataset, enhancing the model's predictive capabilities.`
 
 *Tools Used :*
+
 `Data Manipulation: Pandas, NumPy`
-Machine Learning: Scikit-learn, TensorFlow, Keras`
+`Machine Learning: Scikit-learn, TensorFlow, Keras`
 `Deployment: Flask, Docker`
 
 ***Dataset***
