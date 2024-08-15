@@ -12,6 +12,9 @@
 
 `The model achieves an overall accuracy of 83%, with precision and recall metrics indicating robust performance across different weather scenarios. Specific strategies like SMOTE have been employed to address class imbalance in the dataset, enhancing the model's predictive capabilities.`
 
+![output1](https://github.com/user-attachments/assets/d3aa5d46-d029-4f8d-ae08-74e9e0d91d0d)
+
+
 *Tools Used :*
 
 `Data Manipulation: Pandas, NumPy`
