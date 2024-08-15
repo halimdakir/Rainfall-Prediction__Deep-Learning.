@@ -15,7 +15,9 @@
 *Tools Used :*
 
 `Data Manipulation: Pandas, NumPy`
+
 `Machine Learning: Scikit-learn, TensorFlow, Keras`
+
 `Deployment: Flask, Docker`
 
 ***Dataset***
