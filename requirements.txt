@@ -1,0 +1,10 @@
+flask
+numpy
+pandas
+pyspark==3.5.1
+tensorflow==2.15.0
+keras==2.15.0
+scikit-learn==1.2.2
+imbalanced-learn==0.10.1
+scikeras
+joblib
