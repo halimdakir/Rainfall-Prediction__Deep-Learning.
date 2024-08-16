@@ -15,13 +15,23 @@
 ![output1](https://github.com/user-attachments/assets/d3aa5d46-d029-4f8d-ae08-74e9e0d91d0d)
 
 
-*Tools Used :*
+*Sequential Neural Network - Architecture :*
 
-`Data Manipulation: Pandas, NumPy`
+`Input layer with 128 neurons`
 
-`Machine Learning: Scikit-learn, TensorFlow, Keras`
+`Hidden layers with 64 and 32 neurons`
 
-`Deployment: Flask, Docker`
+`Output layer with 1 neuron (sigmoid activation)`
+
+*Key Features :*
+
+`Dropout Layers: To prevent overfitting.`
+
+`Early Stopping: To avoid overtraining.`
+
+`Employ SMOTE to address class imbalance.`
+
+`Optimize hyperparameters using RandomizedSearchCV.`
 
 ***Dataset***
 
