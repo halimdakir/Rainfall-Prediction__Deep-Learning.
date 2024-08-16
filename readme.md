@@ -78,3 +78,5 @@
 `{
   "prediction": ["No Rain Tomorrow"]
 }`
+
+![Screenshot 2024-06-03 104625](https://github.com/user-attachments/assets/15357323-178a-4404-aebf-ca8a97e21363)
