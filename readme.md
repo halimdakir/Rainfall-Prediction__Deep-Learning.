@@ -1,4 +1,4 @@
-***Rainfall Prediction Using Machine Learning***
+***Rainfall Prediction Using Deep Learning***
 
 *Project Overview:*
 
