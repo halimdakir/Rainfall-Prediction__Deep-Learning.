@@ -1,3 +1,38 @@
+***Rainfall Prediction Using Deep Learning***
+
+*Project Overview:*
+
+`The Rainfall Prediction project leverages advanced machine learning techniques to predict whether it will rain tomorrow by analyzing daily weather data across Australia. This repository encompasses all aspects of the model development process—from data preparation and preprocessing, through to model training and deployment.`
+
+*Objective :*
+
+`This project aims to accurately forecast rainfall using historical weather data, thereby assisting in weather predictions and planning. The model utilizes various machine learning algorithms and tools, and is deployed via Flask and Docker, making it scalable and accessible as a web application.`
+
+*Performance :*
+
+`The model achieves an overall accuracy of 83%, with precision and recall metrics indicating robust performance across different weather scenarios. Specific strategies like SMOTE have been employed to address class imbalance in the dataset, enhancing the model's predictive capabilities.`
+
+![output1](https://github.com/user-attachments/assets/d3aa5d46-d029-4f8d-ae08-74e9e0d91d0d)
+
+
+*Sequential Neural Network - Architecture :*
+
+`Input layer with 128 neurons`
+
+`Hidden layers with 64 and 32 neurons`
+
+`Output layer with 1 neuron (sigmoid activation)`
+
+*Key Features :*
+
+`Dropout Layers: To prevent overfitting.`
+
+`Early Stopping: To avoid overtraining.`
+
+`Employ SMOTE to address class imbalance.`
+
+`Optimize hyperparameters using RandomizedSearchCV.`
+
 ***Dataset***
 
 *link to dataset:*
@@ -45,4 +80,8 @@
 }`
 
 
-📓 See full explanation in the [README.ipynb](./README.ipynb)
+![Screenshot 2024-06-03 104625](https://github.com/user-attachments/assets/15357323-178a-4404-aebf-ca8a97e21363)
+
+
+See full explanation in the [README.ipynb](./README.ipynb)
+
