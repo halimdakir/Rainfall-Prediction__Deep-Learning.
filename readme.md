@@ -43,3 +43,6 @@
 `{
   "prediction": ["No Rain Tomorrow"]
 }`
+
+
+📓 See full explanation in the [README.ipynb](./README.ipynb)
